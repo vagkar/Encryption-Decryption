@@ -1,6 +1,6 @@
 # Encryption-Decryption
 
-##JetBrains Project
+## JetBrains Project
 
 This project started for educational purposes.
 
